@@ -1,4 +1,4 @@
-local HITBOX_INCREASE_FACTOR = 50.0
+local HITBOX_INCREASE_FACTOR = 25.0
 
 -- Функция для увеличения хитбоксов и их визуализации
 local function increaseAndShowHitbox(character)
